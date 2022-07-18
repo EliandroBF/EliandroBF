@@ -1,6 +1,9 @@
 ### Olá! Eu sou o Eliandro Barbosa 👋
 ### No momento estou me aperfeiçoando em Javascript e Typescript.
 ### Conhecimentos avançados em HTML e CSS.
+### Tive um breve conhecimento em, Python, C#, SQL, Reactjs e Java.
+### Estudante a quase um ano.
+### Transição de carreira, Administração / Desenvolvimento web.
 
 <!--
 **EliandroBF/EliandroBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
