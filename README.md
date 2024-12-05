@@ -1,18 +1,18 @@
 ### Olá! Eu sou o Eliandro Barbosa 👋
-### No momento estou me aperfeiçoando em Javascript e Typescript.
-### Conhecimentos avançados em HTML e CSS.
-### Tive um breve conhecimento em, Python, C#, SQL, Reactjs e Java.
-### Estudante a quase um ano.
-### Transição de carreira, Administração / Desenvolvimento web.
+### Sou Representative BI na CONCENTRIX.
+### Conhecimentos em Bancos de dados, Power BI e Python.
+### Tive um breve conhecimento em, C#, e Java.
+### Finalizando a Graduação em Ciencia de Dados.
+### Busco me profissionalizar na area de Ciencia de Dados.
 
 <!--
 **EliandroBF/EliandroBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 Estou a procura de uma oportunidade de trabalho na area de Front-end ...
-- 🌱 Estou estudando JavaScript ...
-- 📫 Contate-me: eliandro_bf@hotmail.com ...
+- 🔭 Busco me profissionalizar na area de Ciencia de Dados...
+- 🌱 Estou estudando R...
+- 📫 Contate-me: eliandro_bf@hotmail.com ou no meu WhatsApp (41) 99983-9130...
 - 😄 Pronome: ele-dele ...
 -->
 <div align="center">
