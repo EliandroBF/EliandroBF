@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Eliandro Barbosa 👋
 ### Sou Representative BI na CONCENTRIX.
-### Conhecimentos em Bancos de dados, Power BI e Python.
-### Tive um breve conhecimento em, C#, e Java.
+### Conhecimentos em Bancos de dados, SQL Server, My SQL.
+### Conhecimentos em programação, JavaScript, Node.js e Python.
+### Conhecimentos em criação de Dashboards.
 ### Finalizando a Graduação em Ciencia de Dados.
-### Busco me profissionalizar na area de Ciencia de Dados.
 
 <!--
 **EliandroBF/EliandroBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
